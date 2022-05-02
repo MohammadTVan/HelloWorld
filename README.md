@@ -1,4 +1,4 @@
 # HelloWorld
 This is my first repository!
 My Hobbies 
-![headshot](Octicons-mark-github)
+![headshot](file_example_JPG_100kB.jpg)
